@@ -1,0 +1,19 @@
+# Visual Studio 缓存和配置文件
+.vs/
+*.slnx
+*.vsidx
+*.suo
+*.user
+
+# C++ 编译产生的临时文件
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.out
+*.log
+
+# 系统文件
+Thumbs.db
+Desktop.ini
