@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\标头.obj",
+            "outputs": [
+                "Debug\\标头.h.obj.dt.module.json",
+                "Debug\\标头.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
