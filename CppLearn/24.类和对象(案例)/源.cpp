@@ -1,7 +1,7 @@
 ﻿#include<iostream>
 using namespace std;
 
-//要求，用全局函数和成员函数计算两个立方体的体积和面积是否相等
+//用全局函数和成员函数计算两个立方体的体积和面积是否相等
 
 
 class Cube {
